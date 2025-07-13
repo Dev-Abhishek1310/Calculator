@@ -27,7 +27,7 @@ A responsive and functional calculator built using **HTML**, **CSS**, and **Vani
 ## 📸 Screenshot
 
 🔗 Preview (replace with actual image):  
-****
+**https://raw.githubusercontent.com/Dev-Abhishek1310/Calculator/refs/heads/main/Calc_Working.png**
 
 ---
 
