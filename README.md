@@ -20,14 +20,14 @@ A responsive and functional calculator built using **HTML**, **CSS**, and **Vani
 ## 🚀 Live Demo
 
 🔗 Try it here (replace with your link):  
-**https://your-username.github.io/calculator/**
+**https://dev-abhishek1310.github.io/Calculator/**
 
 ---
 
 ## 📸 Screenshot
 
 🔗 Preview (replace with actual image):  
-**https://your-repo-url.com/screenshot.png**
+****
 
 ---
 
